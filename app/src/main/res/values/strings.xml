@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="class_name">Class Name : </string>
+    <string name="lecture">Total Lectures : </string>
+    <string name="present">Present : </string>
+    <string name="sick">Sick : </string>
+    <string name="absent">Absent : </string>
+    <string name="late">Late : </string>
+    <string name="student">Student ID</string>
+    <string name="attendance">Get Attendance</string>
+</resources>
